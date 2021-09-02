@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1630369237 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\menu.c
+
+1630369043 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\habitaciones.c
+
+1630617188 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"arreglos.h"
+	"habitaciones.h"
+	"matrices.h"
+	"medicos.h"
+	"menu.h"
+	"inicio.h"
+
+1630369043 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\habitaciones.h
+
+1630369305 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1630386930 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\medicos.h
+
+1630386930 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\medicos.c
+	"medicos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1629785070 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\pacientes.c
+
+1630623960 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\archivos.c
+	"archivos.h"
+	"matrices.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1629920050 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\arreglos.c
+	<stdlib.h>
+	<stdio.h>
+
+1629785109 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\turnos.c
+
+1629922641 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\matrices.c
+
+1629785367 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\arboles.c
+
+1629785325 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\listas_simples.c
+
+1629785407 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\arboles.h
+
+1630617237 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\archivos.h
+
+1629919672 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\arreglos.h
+
+1629785407 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\listas_simples.h
+
+1630623840 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\matrices.h
+
+1629785075 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\pacientes.h
+
+1629785226 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\turnos.h
+
+1630617222 source:c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\inicio.c
+	"inicio.h"
+	"archivos.h"
+	"medicos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1630617208 c:\users\estopa\desktop\13 - utn\a—o 3\2do cuatrimestre\finales prog y lab 2\tp final\inicio.h
+
